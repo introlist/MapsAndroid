@@ -7,6 +7,13 @@
     android:layout_height="match_parent"
     tools:context="com.example.demon.mapsandroid.MainActivity">
 
+    <TextView
+
+        android:id="@+id/ninja"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="langlong"
+        android:textSize="7sp" />
     <Button android:id="@+id/btnOpciones"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
